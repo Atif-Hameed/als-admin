@@ -1,0 +1,40 @@
+@import "tailwindcss";
+
+@theme {
+  --color-darkGray: #475569;
+  --color-border: #CBD5E1;
+  --color-dark: #002B4B;
+  --color-dimGray: #FAF5FF;
+  --color-cgreen: #F4F9FD;
+  
+
+  --color-primary: #028FEE;
+  --color-secondary: #FF6E44;
+  --color-gray: #BCC0C4;
+  --color-grayDark: #9B9B9B;
+  --color-darkGray2: #666666;
+  --color-darkBlue: #141F30;
+  --color-lightGray : #C6C6C6;
+  --color-border2 : #B3B3B366;
+  --color-darkBorder :#B3B3B3;
+  --color-lightDark:#070707B2;
+  --color-blue : #4FADFF;
+  --color-lightBlue : #F4F9FD;
+
+  /* Custom Gradients */
+  /* --gradient-dropDownBg: linear-gradient(90deg, rgba(0, 254, 181, 0.3) 0%, rgba(0, 254, 181, 0) 100%);
+  --gradient-chartGradient: linear-gradient(180deg, rgba(147, 255, 184, 0.2) 0%, rgba(147, 255, 184, 0) 100%); */
+
+  /* Custom Shadows */
+  --shadow-glow: 0px 4px 46px 0px #61616126;;
+
+  /* Custom Screens */
+  --breakpoint-xxs: 370px;
+  --breakpoint-xs: 450px;
+
+
+  /* Custom Fonts */
+ --font-urbanist: 'urbanist';
+
+}
+
